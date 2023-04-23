@@ -1,29 +1,48 @@
 @font-face {
-  src: url(./Inter/Inter-Black.woff2) format('woff2'),
-       url(./Inter/Inter-Black.woff) format('woff');
+  src: url(./Inter/Inter-Regular.woff2) format('woff2'),
+       url(./Inter/Inter-Regular.woff) format('woff');
        font-family: 'Inter';
-}
-
-@font-face {
-  src: url(./Inter/Inter-BlackItalic.woff2) format('woff2'),
-       url(./Inter/Inter-BlackItalic.woff2) format('woff');
-       font-family: 'Inter';
-       font-weight: normal;
-       font-style: italic;
+       font-weight: 400;
 }
 
 @font-face {
   src: url(./Inter/Inter-Bold.woff2) format('woff2'),
        url(./Inter/Inter-Bold.woff) format('woff');
        font-family: 'Inter';
-       font-weight: bold;
+       font-weight: 700;
 }
+
+@font-face {
+  src: url(./Inter/Inter-ExtraBold.woff2) format('woff2'),
+       url(./Inter/Inter-ExtraBold.woff) format('woff');
+       font-family: 'Inter';
+       font-weight: 800;
+}
+
+@font-face {
+  src: url(./Inter/Inter-Black.woff2) format('woff2'),
+       url(./Inter/Inter-Black.woff) format('woff');
+       font-family: 'Inter';
+       font-weight: 900;
+}
+
+@font-face {
+  src: url(./Inter/Inter-BlackItalic.woff2) format('woff2'),
+       url(./Inter/Inter-BlackItalic.woff2) format('woff');
+       font-family: 'Inter';
+       font-weight: 400;
+       font-style: italic;
+}
+
+
+
+
 
 @font-face {
   src: url(./Inter/Inter-BoldItalic.woff2) format('woff2'),
        url(./Inter/Inter-BoldItalic.woff) format('woff');
        font-family: 'Inter';
-       font-weight: bold;
+       font-weight: 700;
        font-style: italic;
 }
 
@@ -31,6 +50,17 @@
   src: url(./Inter/Inter-Italic.woff2) format('woff2'),
        url(./Inter/Inter-Italic.woff) format('woff');
        font-family: 'Inter';
-       font-weight: normal;
+       font-weight: 400;
        font-style: italic;
 }
+
+
+/* 100 – Thin
+200 – Extra Light (Ultra Light)
+300 – Light
+400 – Normal
+500 – Medium
+600 – Semi Bold (Demi Bold)
+700 – Bold
+800 – Extra Bold (Ultra Bold)
+900 – Black (Heavy) */

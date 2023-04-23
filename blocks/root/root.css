@@ -1,5 +1,14 @@
 .root {
   font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
-  background-color: rgb(205, 205, 205);
-  width: 100vw;
+  background-color: #2A2C2F;
+  color: #FFFFFF;
+  display: grid;
+  --header-side-margin-xl: 48px;
+  --content-side-margin-xl: 148px;
+  --header-side-margin-lg: 48px;
+  --content-side-margin-lg: 48px;
+  --header-side-margin-md: 24px;
+  --content-side-margin-md: 0px;
+  --header-side-margin-sm: 16px;
+  --content-side-margin-sm: 2px;
 }
