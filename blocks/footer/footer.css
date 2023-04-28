@@ -26,6 +26,6 @@
   .footer {
     margin-left: 64px var(--header-side-margin-sm) 0;
     flex-direction: column;
-    gap: 48px
+    gap: 48px;
   }
 }
