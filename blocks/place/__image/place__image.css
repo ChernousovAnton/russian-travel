@@ -1,11 +1,3 @@
 .place__image {
   width: 100%;
 }
-
-/* @media screen and (max-width: 767px) {
-  .place__image {
-    margin-left: -var(--header-side-margin-sm);
-    min-width: 320px;
-
-  }
-} */

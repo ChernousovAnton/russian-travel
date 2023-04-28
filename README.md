@@ -17,4 +17,4 @@
 * Grid
 * Медиазапросы @media
 
-[Ссылка на сайт](https://ChernousovAnton.github.io/russian-travel/index.html).
+* [Ссылка на сайт](https://ChernousovAnton.github.io/russian-travel/index.html)
