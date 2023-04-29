@@ -4,6 +4,13 @@
   gap: 92px;
 }
 
+@media screen and (min-width: 1280px) {
+  .main {
+    margin: 0 auto 0;
+    width: 1184px;
+  }
+}
+
 @media screen and (max-width: 1023px) {
   .main {
     gap: 88px;

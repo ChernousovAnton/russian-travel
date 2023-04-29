@@ -1,18 +1,17 @@
 .places {
   display: grid;
+  gap: 80px;
 }
 
 @media screen and (min-width: 1280px) {
   .places {
     margin: 0 var(--content-side-margin-xl) 0;
-    gap: 80px;
   }
 }
 
 @media screen and (max-width: 1279px) {
   .places {
     margin: 0 var(--header-side-margin-lg) 0;
-    gap: 80px;
   }
 }
 

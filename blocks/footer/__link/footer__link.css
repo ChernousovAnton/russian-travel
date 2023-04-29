@@ -2,13 +2,13 @@
   text-decoration: none;
   color: #fff;
   font-size: 16px;
-  line-height: 1.125;
+  line-height: 18px;
   transition-property: opacity;
   transition-duration: 0.5s;
+  cursor: pointer;
 }
 
 .footer__link:hover {
-  cursor: pointer;
   opacity: .8;
 }
 
