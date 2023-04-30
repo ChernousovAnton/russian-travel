@@ -1,5 +1,4 @@
 .header {
-  min-height: 52px;
   display: grid;
   justify-content: space-between;
   grid-template-columns: repeat(2, max-content);
@@ -13,9 +12,20 @@
   }
 }
 
+@media screen and (max-width: 1279px) {
+  .header {
+    margin: 28px var(--outer-side-margin-lg) 48px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .header {
+    margin: 28px var(--inner-side-margin-md) 48px;
+  }
+}
+
 @media screen and (max-width: 767px) {
   .header {
-    min-height: 42px;
     margin: 16px var(--inner-side-margin-sm) 48px;
     font-size: 18px;
   }
