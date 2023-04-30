@@ -3,7 +3,7 @@
   display: grid;
   justify-content: space-between;
   grid-template-columns: repeat(2, max-content);
-  margin: 28px var(--header-side-margin-lg) 48px;
+  margin: 28px var(--outer-side-margin-lg) 48px;
 }
 
 @media screen and (min-width: 1280px) {
@@ -16,7 +16,7 @@
 @media screen and (max-width: 767px) {
   .header {
     min-height: 42px;
-    margin: 16px var(--header-side-margin-sm) 48px;
+    margin: 16px var(--inner-side-margin-sm) 48px;
     font-size: 18px;
   }
 }

@@ -11,12 +11,12 @@
 
 @media screen and (max-width: 1023px) {
   .lead__caption {
-    margin-left: var(--header-side-margin-md);
+    margin-left: var(--inner-side-margin-md);
   }
 }
 
 @media screen and (max-width: 767px) {
   .lead__caption {
-    margin-left: var(--header-side-margin-sm);
+    margin-left: var(--inner-side-margin-sm);
   }
 }

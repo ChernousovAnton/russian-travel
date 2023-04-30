@@ -7,26 +7,26 @@
 
 @media screen and (min-width: 1280px) {
   .intro {
-    margin: 0 var(--content-side-margin-xl) 0;
+    margin: 0 var(--inner-side-margin-xl) 0;
   }
 }
 
 @media screen and (max-width: 1279px) {
   .intro {
-    margin: 0 var(--content-side-margin-lg) 0;
+    margin: 0 var(--outer-side-margin-lg) 0;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .intro {
-    margin: 0 var(--header-side-margin-md) 0;
+    margin: 0 var(--inner-side-margin-md) 0;
     max-width: 720px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .intro {
-    margin: 0 var(--header-side-margin-sm) 0;
+    margin: 0 var(--inner-side-margin-sm) 0;
     max-width: none;
   }
 }

@@ -6,6 +6,6 @@
 
 @media screen and (max-width: 767px) {
   .place__text {
-  margin: 0 var(--header-side-margin-sm) 0;
+  margin: 0 var(--inner-side-margin-sm) 0;
   }
 }

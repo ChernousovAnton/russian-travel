@@ -1,10 +1,9 @@
 :root {
-  --header-side-margin-xl: 48px;
-  --content-side-margin-xl: 148px;
-  --header-side-margin-lg: 48px;
-  --content-side-margin-lg: 48px;
-  --header-side-margin-md: 24px;
-  --content-side-margin-md: 0px;
-  --header-side-margin-sm: 16px;
-  --content-side-margin-sm: 0px;
+  --outer-side-margin-xl: 48px;
+  --inner-side-margin-xl: 148px;
+  --outer-side-margin-lg: 48px;
+  --inner-side-margin-md: 24px;
+  --outer-side-margin-md: 0px;
+  --inner-side-margin-sm: 16px;
+  --outer-side-margin-sm: 0px;
 }
